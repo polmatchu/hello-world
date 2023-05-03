@@ -1,2 +1,2 @@
 # hello-world
-workshop repo
+CICS Week workshop 2023
